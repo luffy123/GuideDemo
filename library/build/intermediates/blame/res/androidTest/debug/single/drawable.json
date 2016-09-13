@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
+        "source": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_hollow.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_solid.xml",
+        "source": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_solid.xml",
+        "source": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_solid.xml"
+    },
+    {
+        "merged": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
+        "source": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bga_banner_selector_point_hollow.xml"
+    }
+]

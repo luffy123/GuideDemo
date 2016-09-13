@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_disabled.png",
+        "source": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_disabled.png",
+        "source": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_enabled.png",
+        "source": "D:\\WorkSpace\\BGABanner-Android-master\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_enabled.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\bga_banner_point_enabled.png",
+        "source": "D:\\WorkSpace\\GuideDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\bga_banner_point_enabled.png"
+    }
+]
